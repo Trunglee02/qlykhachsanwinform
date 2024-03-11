@@ -1,0 +1,13 @@
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\bin\Debug\PhanMemQuanLyKS.exe
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\bin\Debug\PhanMemQuanLyKS.exe.config
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.csproj.AssemblyReference.cache
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.Form1.resources
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.Form2.resources
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.Properties.Resources.resources
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.csproj.GenerateResource.cache
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.csproj.CoreCompileInputs.cache
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.exe
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.pdb
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\bin\Debug\PhanMemQuanLyKS.pdb
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.Form3.resources
+D:\Workspace\laptrinhnet1\PhanMemQuanLyKS\PhanMemQuanLyKS\obj\Debug\PhanMemQuanLyKS.Form4.resources
